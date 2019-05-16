@@ -1,6 +1,5 @@
 # Banca
 
-# stat-plata
 <p align="center">
   <img src="https://github.com/doru87/Banca/blob/master/Banca/src/imagini/2019-05-16_094753.jpg" width="600" height="500">
 </p>
